@@ -13,7 +13,7 @@ name                     : &name "Veerle Wilms"
 description              : &description "I am a second year student Research Master Linguistics and Communication Sciences at Radboud University Nijmegen"
 url                      : https://vwilms.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "vwilms/vwilms.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
