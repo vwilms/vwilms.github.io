@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Veerle Wilms"
 title_separator          : "-"
 name                     : &name "Veerle Wilms"
-description              : &description "I am a second year student Reaearch Master Linguistics and Communication Sciences at Radboud University Nijmegen"
+description              : &description "I am a second year student Research Master Linguistics and Communication Sciences at Radboud University Nijmegen"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Veerle Wilms"
   avatar           : "Me.png" 
-  bio              : "Second year student Reaearch Master Linguistics and Communication Sciences"
+  bio              : "Second year student Research Master Linguistics and Communication Sciences"
   location         : "Nijmegen"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
