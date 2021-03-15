@@ -11,49 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Research MA Linguistics and Communication Sciences expected July 2021
+Radboud University, Nijmegen
+    * Current average grade: 8.06
+    * Thesis: The Effects of Iconic Gestures and Background Music on Speech     Comprehension (expected 
+7-2021)
+    * Term Paper: The Effect of Background Music on Speech Recognition: A Systematic Review (grade: 
+8.0)
+    * Relevant courses: Speech Production and Comprehension; The Syntax-Semantics Interface; 
+Computational Psycholinguistics; Multimodal Language and Cognition; Eye-Tracking; Programming 
+with R.
 
-Work experience
+* BA English Language and Culture July 2019
+Radboud University, Nijmegen
+    * Average grade: 7.40
+    * Thesis: The Northern Subject Rule: Constraints Without Input? Studying native speakers of Standard 
+English (grade: 8.0)
+    * Relevant courses: Language Change; Topics in English Linguistics; Word and Word use; 
+Psycholinguistics; Psycholinguistic Research; First Language Acquisition; Introduction to Sign 
+language; Aphasia
+
+Academic experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
