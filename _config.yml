@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Veerle Wilms"
-  avatar           : images/Me.png 
+  avatar           : images/"Me.png" 
   bio              : "Second year student Reaearch Master Linguistics and Communication Sciences"
   location         : "Nijmegen"
   employer         :
