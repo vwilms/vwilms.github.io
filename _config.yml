@@ -85,8 +85,6 @@ author:
   bio              : "Second year student Research Master Linguistics and Communication Sciences"
   location         : "Nijmegen"
   employer         :
-  pubmed           : 
-  googlescholar    : 
   email            : "f.wilms@student.ru.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,14 +100,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://nl.linkedin.com/in/veerle-wilms-b56092185"
+  linkedin         : "/veerle-wilms-b56092185"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "twitter.com/VeerleWilms"
+  twitter          : "/VeerleWilms"
   vine             :
   weibo            :
   xing             :
