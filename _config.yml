@@ -11,7 +11,7 @@ title                    : "Veerle Wilms"
 title_separator          : "-"
 name                     : &name "Veerle Wilms"
 description              : &description "I am a second year student Research Master Linguistics and Communication Sciences at Radboud University Nijmegen"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://vwilms.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Veerle Wilms"
-  avatar           : "profile.png" 
+  avatar           : "Me.png" 
   bio              : "Second year student Research Master Linguistics and Communication Sciences"
   location         : "Nijmegen"
   employer         :
