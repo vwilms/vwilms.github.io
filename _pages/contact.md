@@ -5,4 +5,4 @@ permalink: /contact/
 author_profile: true
 ---
 
-Email: f.wilms@student.ru.nl
+Email: veerle.wilms@mpi.nl
